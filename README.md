@@ -1,2 +1,1 @@
-# kerastoy
-toy for playing keras
+这个是我的keras沙盒，用于写一些诡异的测试cases
